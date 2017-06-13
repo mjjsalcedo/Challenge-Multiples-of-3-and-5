@@ -3,7 +3,7 @@
  * @param  {Number} n Number that is to be used for calculating multiples up to that Number
  * @return {Number}
  */
- var sumOfAMultiple = function( n ) {
+ exports.sumOfAMultiple = function( n ) {
   var sum = 0;
   var threesum = [];
   var fivesum = [];
