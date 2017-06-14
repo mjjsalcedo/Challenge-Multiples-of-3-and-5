@@ -27,6 +27,6 @@
 
 };
 
-console.log(sumOfAMultiple(15));
+console.log(sumOfAMultiple(10));
 
 
